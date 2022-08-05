@@ -7,7 +7,7 @@
 ---
 ## `Screenshot`
 
----<img width="950" alt="travel1" src="https://user-images.githubusercontent.com/110522097/183008225-c7b98cf1-8264-4a15-97d0-69c5635b0711.png">
+<img width="950" alt="travel1" src="https://user-images.githubusercontent.com/110522097/183008225-c7b98cf1-8264-4a15-97d0-69c5635b0711.png">
 ---
 <img width="951" alt="travel2" src="https://user-images.githubusercontent.com/110522097/183008242-dbd875b5-600a-4559-a806-27a2aff0a546.png">
 ---
